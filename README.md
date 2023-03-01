@@ -1,6 +1,6 @@
-<div align="center"> <img src="" alt="Banner com o nome do projeto" /> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/69374340/222289138-54b1d86a-bb91-4701-95c6-54fc5ae9ce6c.png" alt="Banner com o nome do projeto" /> </div>
 
-API que permite vender produtos digitais (neste caso, cursos) em uma plataforma que contém o fluxo do usuário desde a compra até a matrícula 👨‍🎓 <br>
+Plataforma que permite vender produtos digitais (neste caso, cursos), contendo o fluxo do usuário desde a compra até a matrícula 👨‍🎓 <br>
 **Aplicação construída no evento Ignite Lab 0.0, promovido pela Rocketseat** 🚀
 
 > :hammer_and_wrench: Tecnologias e ferramentas: **TypeScript, Next**
